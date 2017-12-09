@@ -1,0 +1,6 @@
+homepage: "https://libgit2.github.com/"
+primary_contact: "TODO(lhchavez): Find an owner"
+auto_ccs: "lhchavez@lhchavez.com"
+sanitizers:
+  - address
+  - undefined
